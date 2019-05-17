@@ -1,6 +1,6 @@
 # Preparing your tenant for the PnP SharePoint Starter Kit
 
-In this document you can find detailed information about preparing your tenant to run the PnP SharePoint Starter Kit. In the main [ReadMe](./README.md) file of this repository you can find general information about the project.
+In this document you can find detailed information about preparing your tenant to run the PnP SharePoint Starter Kit. In the main [ReadMe](https://github.com/SharePoint/sp-starter-kit/blob/master/README.md) file of this repository you can find general information about the project.
 
 In fact, here is the list of requirements, which need some manual steps, to be accomplished in order to properly run the solution:
 
